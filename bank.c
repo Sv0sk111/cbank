@@ -1,3 +1,5 @@
+//Copyright (c) 2024 Sv0sk111
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
