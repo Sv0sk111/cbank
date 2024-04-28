@@ -12,6 +12,7 @@ Cbank is a simple command-line banking application written in C. It allows users
 - [License](#license)
 
 ## Introduction
+Tip: Compiled file works only for linux.
 
 Cbank is designed to provide a basic banking experience in a command-line environment. It offers essential functionalities such as account management, transactions, and loan requests.
 
@@ -35,5 +36,5 @@ To use Cbank, follow these steps:
 To install Cbank, you need a C compiler such as GCC:
 
 ```bash
-gcc main.c -o cbank
+gcc bank.c -o cbank
 
